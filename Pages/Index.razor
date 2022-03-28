@@ -1,0 +1,25 @@
+﻿@page "/"
+@inject IRepository repository
+
+<Typeahead OnSearchHandler="SearchHandler" OnPlaceHolder="Search the Game">
+    <ResultTemplate>
+        @context
+    </ResultTemplate>
+</Typeahead>
+<GameList ListOfGames="gamesList" />
+
+@code {
+    List<GameModel> gamesList;
+
+    protected override void OnInitialized()
+    {
+        gamesList = repository.GetAllGames();
+    }
+    async Task<IEnumerable<string>> SearchHandler(string searchText)
+    {
+        await Task.Delay(1000);
+        if (searchText.Equals("test"))
+            return Enumerable.Empty<string>();
+        return new List<string>() { "CD PROJECT RED", "Giants Software" };
+    }
+}

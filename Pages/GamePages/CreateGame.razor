@@ -1,0 +1,32 @@
+﻿@page "/games/create"
+
+@inject NavigationManager navManager
+@inject IRepository repository
+
+<div class="row">
+    <div class="col">
+        <h1 class="text-info text-center text-uppercase">Create Game</h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col">
+        <GameForm Game="game" OnValidSubmit="AddNewGame" NotSelectedGenres="notSelectedGenres" />
+    </div>
+</div>
+
+@code {
+    GameModel game = new();
+    List<Genre> notSelectedGenres;
+
+    protected override void OnInitialized()
+    {
+        notSelectedGenres = repository.GetAllGenres();
+    }
+
+    void AddNewGame()
+    {
+        bool result = repository.CreateNewGame(game);
+        if(result)
+            navManager.NavigateTo("/");
+    }
+}

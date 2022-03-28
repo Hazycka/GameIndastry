@@ -1,0 +1,29 @@
+﻿@page "/games/edit/{GameId:int}"
+@page "/games/edit/{GameId:int}/{GameName}"
+@inject IRepository repository
+
+<div class="row">
+    <div class="col">
+        <h1 class="text-info text-center text-uppercase">Edit Game</h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col">
+        <GameForm Game="game" OnValidSubmit="EditTheGame" />
+    </div>
+</div>
+
+@code {
+    [Parameter] public int GameId { get; set; }
+    [Parameter] public string? GameName { get; set; }
+    GameModel game = new();
+
+    protected override void OnInitialized()
+    {
+        game = repository.GetGameModelById(GameId);
+    }
+    void EditTheGame()
+    {
+        
+    }
+}

@@ -1,0 +1,148 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GameIndastry_v2
+build_property.RootNamespace = GameIndastry_v2
+build_property.ProjectDir = D:\Temp\C# learning\GameIndastry_v2\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Temp\C# learning\GameIndastry_v2
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/PageComponents/DeveloperPageForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZUNvbXBvbmVudHNcRGV2ZWxvcGVyUGFnZUZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/PageComponents/FormForGenre.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZUNvbXBvbmVudHNcRm9ybUZvckdlbnJlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/PageComponents/GameForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZUNvbXBvbmVudHNcR2FtZUZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/PageComponents/GameList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZUNvbXBvbmVudHNcR2FtZUxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/PageComponents/IndividualGame.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZUNvbXBvbmVudHNcSW5kaXZpZHVhbEdhbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/PageComponents/MarkdownInput.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZUNvbXBvbmVudHNcTWFya2Rvd25JbnB1dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/PageComponents/MarkdownRenderer.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZUNvbXBvbmVudHNcTWFya2Rvd25SZW5kZXJlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/PageComponents/MultipleSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZUNvbXBvbmVudHNcTXVsdGlwbGVTZWxlY3Rvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/PageComponents/MultipleSelectorTypeahead.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZUNvbXBvbmVudHNcTXVsdGlwbGVTZWxlY3RvclR5cGVhaGVhZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/PageComponents/NotFound.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZUNvbXBvbmVudHNcTm90Rm91bmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/PageComponents/Typeahead.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZUNvbXBvbmVudHNcVHlwZWFoZWFkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/DeveloperPages/CreateStudio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV2ZWxvcGVyUGFnZXNcQ3JlYXRlU3R1ZGlvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/DeveloperPages/EditStudio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV2ZWxvcGVyUGFnZXNcRWRpdFN0dWRpby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/DeveloperPages/IndexStudio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV2ZWxvcGVyUGFnZXNcSW5kZXhTdHVkaW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/GamePages/CreateGame.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZVBhZ2VzXENyZWF0ZUdhbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/GamePages/EditGame.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZVBhZ2VzXEVkaXRHYW1lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/GamePages/GameDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZVBhZ2VzXEdhbWVEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/GamePages/GameSearch.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZVBhZ2VzXEdhbWVTZWFyY2gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/GenrePages/CreateGenre.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VucmVQYWdlc1xDcmVhdGVHZW5yZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/GenrePages/EditGenre.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VucmVQYWdlc1xFZGl0R2VucmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/GenrePages/IndexGenre.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VucmVQYWdlc1xJbmRleEdlbnJlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Shared/InputImage.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElucHV0SW1hZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-fbld7ka31m
+
+[D:/Temp/C\# learning/GameIndastry_v2/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-undmwrxwch
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Temp/C\# learning/GameIndastry_v2/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
